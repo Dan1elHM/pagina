@@ -1,0 +1,47 @@
+<nav class="navegacion"> 
+                    <!--<ul class="menu">
+                        <li> <a href="#">Inicio</a></li>
+
+                        <li><a href="#">Entrevista</a>
+                        <ul class="submenu">
+                            <li><a href="#">n </a> </li>
+                            <li><a href="#">ñ1 </a></li>
+                            <li><a href="#">n3</a></li>
+                        </ul>  --> 
+                        </li> 
+
+                        <li><a href="#">Juegos</a>
+                           <!--<ul class="submenu">
+                                <li><a href="#">n </a></li>
+                                <li><a href="#">n1 </a></li>
+                                <li><a href="#">n2 </a></li>
+                            </ul> -->
+                        </li>  
+                        
+                        <li><a href="#">Base de datos</a>
+                           <!--<ul class="submenu">
+                                <li><a href="#">n </a></li>
+                                <li><a href="#">n1 </a></li>
+                                <li><a href="#">n2 </a></li>
+                            </ul> --> 
+                        </li>
+                    </ul>
+                </nav>
+
+
+
+
+
+header{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    margin: auto;
+    background: rgb(99, 156, 128);
+    position: relative; /* position relative para poner delante de un banner */
+    margin-top: 10px; /* margin top para poner arriba un banner */
+    border-radius: 10px;
+
+}
